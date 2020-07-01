@@ -1,2 +1,2 @@
 # R_Probs-Stats
-#RStudio used for Probability and Statistics
+RStudio used for Probability and Statistics
